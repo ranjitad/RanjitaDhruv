@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Favorite1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Favorites1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- Favorites1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Propertynew --></label>
+        <name>Propertynew__c</name>
+        <relationshipLabel><!-- Favorites1 --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

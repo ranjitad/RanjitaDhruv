@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>DatatableNoSelMsg</fullName>
+        <categories>Error</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>DatatableNoSelMsg</shortDescription>
+        <value>Select atleast one record to export.</value>
+    </labels>
+</CustomLabels>

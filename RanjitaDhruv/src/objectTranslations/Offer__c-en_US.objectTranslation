@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Offer1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Offers1</value>
+    </caseValues>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- Offers1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Offer Amount --></label>
+        <name>Offer_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Propertynew --></label>
+        <name>Propertynew__c</name>
+        <relationshipLabel><!-- Offers1 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Target Close Date --></label>
+        <name>Target_Close_Date__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- amount should not be 100 --></errorMessage>
+        <name>amount_is_100</name>
+    </validationRules>
+</CustomObjectTranslation>
